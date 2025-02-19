@@ -44,7 +44,7 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-12" target="xHOI3sVxzhp9TkoWs5c0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xHOI3sVxzhp9TkoWs5c0-12" value="继续游戏" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-12" value="继续游戏，并挑战boss" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322" y="500" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
