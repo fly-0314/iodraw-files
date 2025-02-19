@@ -34,7 +34,7 @@
         <mxCell id="O-9eFWaGsPByD7Neu5j4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-7" target="O-9eFWaGsPByD7Neu5j4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-9eFWaGsPByD7Neu5j4-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;玩家开始对战&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;设置p1 p2分别作为&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;双方玩家&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;初始胜利次数均为0&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1＞p2，p1获胜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="60" y="840" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
