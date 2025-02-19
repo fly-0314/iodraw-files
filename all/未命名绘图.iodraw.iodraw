@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-3" value="判断双方是否有胜利&lt;div&gt;次数达到两次&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="592" y="1330.91" width="200" height="200" as="geometry" />
+          <mxGeometry x="530" y="1340" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-4" target="O-9eFWaGsPByD7Neu5j4-7">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry x="276.01" y="150" width="292" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-6" value="获胜方胜利&lt;div&gt;次数加一&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="608.67" y="1110.91" width="166.67" height="100" as="geometry" />
+          <mxGeometry x="546.67" y="1110.91" width="166.67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="倒计时是否结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322" y="310" width="200" height="200" as="geometry" />
