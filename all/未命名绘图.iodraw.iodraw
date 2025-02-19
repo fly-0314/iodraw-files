@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-2" value="开始游戏&lt;div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;设置p1 p2分别作为&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;双方玩家&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;初始胜利次数均为0&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="364.01" y="20" width="235.99" height="60" as="geometry" />
+          <mxGeometry x="304.01" y="10" width="235.99" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-3" target="O-9eFWaGsPByD7Neu5j4-4">
           <mxGeometry relative="1" as="geometry">
@@ -18,6 +18,11 @@
               <mxPoint x="40" y="130" />
               <mxPoint x="422" y="130" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O-9eFWaGsPByD7Neu5j4-26">
+          <mxGeometry x="-0.7949" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-3" value="判断双方是否有胜利&lt;div&gt;次数达到两次&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
