@@ -19,7 +19,7 @@
         <mxCell id="O-9eFWaGsPByD7Neu5j4-6" value="获胜方胜利&lt;div&gt;次数加一&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="338.66999999999996" y="890" width="166.67" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="倒计时结束前判定是否有角色血量清空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322.01" y="340" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
