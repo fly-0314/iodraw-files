@@ -24,7 +24,7 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-5" value="判断boss血量&lt;div&gt;是否为0&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="343" y="530" width="178" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="xHOI3sVxzhp9TkoWs5c0-6" value="判断角色血量&lt;div&gt;是否为0&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-6" value="判断是否为最后&lt;div&gt;一只boss&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="343" y="740" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-9" value="游戏失败&lt;div&gt;游戏结束&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
