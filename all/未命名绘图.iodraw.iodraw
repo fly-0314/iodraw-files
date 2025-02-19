@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-3" value="判断双方是否有胜利&lt;div&gt;次数达到两次&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="322" y="1200" width="200" height="200" as="geometry" />
+          <mxGeometry x="592" y="1330.91" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-4" target="O-9eFWaGsPByD7Neu5j4-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="276.01" y="150" width="292" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-6" value="获胜方胜利&lt;div&gt;次数加一&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="338.66999999999996" y="980" width="166.67" height="100" as="geometry" />
+          <mxGeometry x="608.67" y="1110.91" width="166.67" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="倒计时是否结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322" y="310" width="200" height="200" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-9" value="p1血量与p2血量作比较" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="322.01" y="580" width="200" height="200" as="geometry" />
+          <mxGeometry x="592.01" y="710.91" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-10" value="是否有角色血量清空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="911.91" y="310" width="200" height="200" as="geometry" />
@@ -64,19 +64,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1=p2，平局&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="60" y="840" width="200" height="80" as="geometry" />
+          <mxGeometry x="330" y="970.91" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-13" target="O-9eFWaGsPByD7Neu5j4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1＞p2，p1获胜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="322" y="840" width="200" height="80" as="geometry" />
+          <mxGeometry x="592" y="970.91" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-14" target="O-9eFWaGsPByD7Neu5j4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1＜p2，p2获胜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="580" y="840" width="200" height="80" as="geometry" />
+          <mxGeometry x="850" y="970.91" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-6" target="O-9eFWaGsPByD7Neu5j4-3">
           <mxGeometry relative="1" as="geometry" />
@@ -92,8 +92,8 @@
         <mxCell id="O-9eFWaGsPByD7Neu5j4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-12" target="O-9eFWaGsPByD7Neu5j4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="1120" />
-              <mxPoint x="422" y="1120" />
+              <mxPoint x="430" y="1250.91" />
+              <mxPoint x="692" y="1250.91" />
             </Array>
           </mxGeometry>
         </mxCell>
