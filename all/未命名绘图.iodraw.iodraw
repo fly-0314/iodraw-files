@@ -19,6 +19,9 @@
         <mxCell id="O-9eFWaGsPByD7Neu5j4-6" value="获胜方胜利&lt;div&gt;次数加一&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="338.66999999999996" y="890" width="166.67" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="372" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
