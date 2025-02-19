@@ -1,0 +1,211 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="Y3IjfhYB8Ufk624i12Uz">
+    <mxGraphModel dx="2862" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aWDhnlyykZAZ1witT_BG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aWDhnlyykZAZ1witT_BG-1" target="aWDhnlyykZAZ1witT_BG-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="195" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;操作角色处于初始位置&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;键盘控制角色上下左右移动&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="139.38" y="180" width="231.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aWDhnlyykZAZ1witT_BG-7" target="aWDhnlyykZAZ1witT_BG-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-79" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0596" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-7" target="aWDhnlyykZAZ1witT_BG-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-82" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-13" vertex="1" connectable="0">
+          <mxGeometry x="0.1635" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;操作角色移动过&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;程中&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;接触到物体时&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;判断物体是否能朝角色&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;移动方向移动&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="145.01" y="584" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;物品朝角色移动方向移动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-2.5" y="880" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;物品不移动且操作角色&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;有一个回弹回原地的动效&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="365.01" y="880" width="214.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-19" target="aWDhnlyykZAZ1witT_BG-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-19" target="aWDhnlyykZAZ1witT_BG-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断物品类型&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1030" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-9" target="aWDhnlyykZAZ1witT_BG-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-10" target="aWDhnlyykZAZ1witT_BG-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-42" target="aWDhnlyykZAZ1witT_BG-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;箱子：箱子在水面上相当于&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;普通地板&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="193.75" y="1320" width="172.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-43" value="红色炸弹：炸弹可以爆炸，炸弹爆炸可以摧毁树木、箱子以及操作角色，爆炸范围为已炸弹为中心的十字型，炸弹在水中不爆炸" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1320" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-19" target="aWDhnlyykZAZ1witT_BG-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="1320" as="targetPoint" />
+            <mxPoint x="255" y="1200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-41" target="aWDhnlyykZAZ1witT_BG-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="36" y="1780" />
+              <mxPoint x="280" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;树木：树木不可移动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="1320" width="172.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-45" target="aWDhnlyykZAZ1witT_BG-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-81" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.6062" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断操作角色移动&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;程中&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;是否接触到物体&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="145.01" y="270" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-3" target="aWDhnlyykZAZ1witT_BG-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-45" target="aWDhnlyykZAZ1witT_BG-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-80" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.4618" y="-5" relative="1" as="geometry">
+            <mxPoint x="4" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;操作角色可以自由移动&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="815" y="350" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-53" target="aWDhnlyykZAZ1witT_BG-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-53" target="aWDhnlyykZAZ1witT_BG-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="876.5882352941176" y="769.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-53" target="aWDhnlyykZAZ1witT_BG-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断操作角色移动&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;到的地板&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;的类型&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="807.5" y="480" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-50" target="aWDhnlyykZAZ1witT_BG-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-58" target="aWDhnlyykZAZ1witT_BG-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="696" y="850" />
+              <mxPoint x="550" y="850" />
+              <mxPoint x="550" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;箱子、普通地板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="610" y="770" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;紫色传送门&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="831.25" y="770" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-61" target="aWDhnlyykZAZ1witT_BG-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;水面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="770" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏胜利&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="857.5" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-66" target="aWDhnlyykZAZ1witT_BG-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="1030" />
+              <mxPoint x="1290" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏失败，重新开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1000" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-60" target="aWDhnlyykZAZ1witT_BG-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-70" target="aWDhnlyykZAZ1witT_BG-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-84" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.6066" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-70" target="aWDhnlyykZAZ1witT_BG-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1780" />
+              <mxPoint x="280" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-95" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="aWDhnlyykZAZ1witT_BG-94" vertex="1" connectable="0">
+          <mxGeometry x="-0.1533" y="5" relative="1" as="geometry">
+            <mxPoint x="9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;判断操作角色是否&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;在爆炸范围内&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1490" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-43" target="aWDhnlyykZAZ1witT_BG-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;继续游戏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="193.75" y="1900" width="172.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aWDhnlyykZAZ1witT_BG-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWDhnlyykZAZ1witT_BG-73" target="aWDhnlyykZAZ1witT_BG-7" edge="1">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="1930" />
+              <mxPoint x="-130" y="560" />
+              <mxPoint x="255" y="560" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
