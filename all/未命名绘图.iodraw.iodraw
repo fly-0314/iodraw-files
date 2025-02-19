@@ -20,7 +20,7 @@
           <mxGeometry x="343" y="660" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-7" value="失败，游戏结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="600" y="259" width="136" height="60" as="geometry" />
+          <mxGeometry x="630" y="259" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
