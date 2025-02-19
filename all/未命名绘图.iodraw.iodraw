@@ -25,11 +25,11 @@
         <mxCell id="O-9eFWaGsPByD7Neu5j4-7" value="倒计时是否结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322" y="310" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="O-9eFWaGsPByD7Neu5j4-9" value="倒计时是否结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="322.01" y="520" width="200" height="200" as="geometry" />
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-9" value="p1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="322.01" y="580" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-10" value="是否有角色血量清空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="200" height="200" as="geometry" />
+          <mxGeometry x="580" y="310" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
