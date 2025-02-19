@@ -106,10 +106,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-9eFWaGsPByD7Neu5j4-34" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O-9eFWaGsPByD7Neu5j4-33">
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-34" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="O-9eFWaGsPByD7Neu5j4-33">
           <mxGeometry x="0.0503" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-35" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1＜p2，p2获胜&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="750" y="570" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
