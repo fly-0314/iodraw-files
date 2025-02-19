@@ -24,6 +24,11 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-5" target="xHOI3sVxzhp9TkoWs5c0-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHOI3sVxzhp9TkoWs5c0-17">
+          <mxGeometry x="-0.3704" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-5" value="判断boss血量&lt;div&gt;是否为0&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="343" y="610" width="178" height="178" as="geometry" />
         </mxCell>
@@ -56,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHOI3sVxzhp9TkoWs5c0-19" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHOI3sVxzhp9TkoWs5c0-18">
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-19" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="xHOI3sVxzhp9TkoWs5c0-18">
           <mxGeometry x="-0.8719" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
