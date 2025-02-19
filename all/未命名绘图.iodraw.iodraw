@@ -22,6 +22,14 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-9" value="游戏失败&lt;div&gt;游戏结束&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="610" y="249" width="166" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-2" target="xHOI3sVxzhp9TkoWs5c0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHOI3sVxzhp9TkoWs5c0-10">
+          <mxGeometry x="-0.0412" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
