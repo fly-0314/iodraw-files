@@ -11,7 +11,14 @@
           <mxGeometry x="364" y="40" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-3" target="O-9eFWaGsPByD7Neu5j4-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="1420" />
+              <mxPoint x="40" y="1420" />
+              <mxPoint x="40" y="130" />
+              <mxPoint x="422" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-3" value="判断双方是否有胜利&lt;div&gt;次数达到两次&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="322" y="1200" width="200" height="200" as="geometry" />
