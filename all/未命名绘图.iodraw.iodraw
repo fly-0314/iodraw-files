@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;p1=p2，平局&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="330" y="970.91" width="200" height="80" as="geometry" />
+          <mxGeometry x="200" y="970.91" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9eFWaGsPByD7Neu5j4-13" target="O-9eFWaGsPByD7Neu5j4-6">
           <mxGeometry relative="1" as="geometry" />
