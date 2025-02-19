@@ -19,6 +19,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="O-9eFWaGsPByD7Neu5j4-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O-9eFWaGsPByD7Neu5j4-39">
+          <mxGeometry x="-0.8887" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O-9eFWaGsPByD7Neu5j4-3" value="判断双方是否有胜利&lt;div&gt;次数达到两次&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="530" y="1340" width="200" height="200" as="geometry" />
         </mxCell>
