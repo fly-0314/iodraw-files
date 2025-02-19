@@ -21,6 +21,9 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-1" target="xHOI3sVxzhp9TkoWs5c0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-5" target="xHOI3sVxzhp9TkoWs5c0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-5" value="判断boss血量&lt;div&gt;是否为0&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="343" y="530" width="178" height="178" as="geometry" />
         </mxCell>
@@ -38,8 +41,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHOI3sVxzhp9TkoWs5c0-12" target="xHOI3sVxzhp9TkoWs5c0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-12" value="继续游戏" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="322" y="420" width="220" height="70" as="geometry" />
+          <mxGeometry x="322" y="420" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
