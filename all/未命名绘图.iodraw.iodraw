@@ -7,7 +7,7 @@
         <mxCell id="xHOI3sVxzhp9TkoWs5c0-1" value="开始游戏" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="364" y="60" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHOI3sVxzhp9TkoWs5c0-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="343" y="200" width="178" height="178" as="geometry" />
         </mxCell>
       </root>
