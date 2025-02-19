@@ -66,6 +66,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xHOI3sVxzhp9TkoWs5c0-21" value="游戏失败&lt;div&gt;游戏结束&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="166" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
